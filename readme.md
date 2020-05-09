@@ -1,6 +1,6 @@
 # Simple CRUD App in PHP with PDO
 
-### Mysql 
+### MySQL
 First login to phpMyAdmin (or other) and run the following SQL. Alternatively, you can import the `products.sql` file provided
 ~~~sql
 CREATE DATABASE php_crud_products;
